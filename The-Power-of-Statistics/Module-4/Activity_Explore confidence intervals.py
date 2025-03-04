@@ -21,7 +21,7 @@
 # 
 # Import `pandas` and `numpy`.
 
-# In[1]: 
+# In[1]:
 
 
 # Import relevant packages
